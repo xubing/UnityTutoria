@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Plugins" expanded="True">
+              <Node name="Bonjour.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/UI/presenter/PropertyPresenter.cs" line="50" offsetX="631" offsetY="735" expression="MallPropertyArray.Properties" liveUpdate="False" />
+    <Watch file="../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/UI/presenter/PropertyPresenter.cs" line="50" offsetX="631" offsetY="758" expression="MallPropertyArray.Properties._items" liveUpdate="False" />
+    <Watch file="../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/HttpHelper.cs" line="594" offsetX="479" offsetY="8895" expression="callback" liveUpdate="False" />
+    <Watch file="../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/WWWHelper.cs" line="404" offsetX="855" offsetY="6045" expression="FriendsPresenter" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
