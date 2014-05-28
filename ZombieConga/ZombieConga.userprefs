@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ZombieController.cs">
+    <Files>
+      <File FileName="Assets/scripts/ZombieAnimator.cs" Line="11" Column="12" />
+      <File FileName="Assets/scripts/ZombieController.cs" Line="41" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/UI/presenter/PropertyPresenter.cs" line="50" offsetX="631" offsetY="735" expression="MallPropertyArray.Properties" liveUpdate="False" />
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/UI/presenter/PropertyPresenter.cs" line="50" offsetX="631" offsetY="758" expression="MallPropertyArray.Properties._items" liveUpdate="False" />
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/HttpHelper.cs" line="594" offsetX="479" offsetY="8895" expression="callback" liveUpdate="False" />
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/WWWHelper.cs" line="404" offsetX="855" offsetY="6045" expression="FriendsPresenter" liveUpdate="False" />
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/WWWHelper.cs" line="169" offsetX="537" offsetY="2520" expression="data.m_ItemsArray" liveUpdate="False" />
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/WWWHelper.cs" line="169" offsetX="537" offsetY="2543" expression="data.m_ItemsArray._items" liveUpdate="False" />
+    <Watch file="../../../../../Bing/HD/iOS/trunk/MTexasPoker/Assets/Code/Frame/http/WWWHelper.cs" line="169" offsetX="537" offsetY="2566" expression="data.m_ItemsArray._items[2]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

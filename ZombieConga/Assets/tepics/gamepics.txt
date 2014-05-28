@@ -1,0 +1,44 @@
+{"frames": {
+
+"background.png":
+{
+	"frame": {"x":2,"y":2,"w":2048,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":640},
+	"sourceSize": {"w":2048,"h":640}
+},
+"cat.png":
+{
+	"frame": {"x":746,"y":644,"w":73,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":78},
+	"sourceSize": {"w":73,"h":78}
+},
+"enemy.png":
+{
+	"frame": {"x":2,"y":644,"w":116,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":161},
+	"sourceSize": {"w":116,"h":161}
+},
+"zombie.png":
+{
+	"frame": {"x":120,"y":644,"w":624,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":624,"h":102},
+	"sourceSize": {"w":628,"h":102}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "gamepics.png",
+	"format": "BGRA8888",
+	"size": {"w":2052,"h":807},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b175ee0cc1f2b90377094dc61809e205:1/1$"
+}
+}
